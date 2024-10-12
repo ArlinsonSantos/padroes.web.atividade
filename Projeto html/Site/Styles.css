@@ -1,0 +1,16 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+
+    /*A tag backgroud-image, serve para por uma cor de fundo*/
+    /*Já o atributo "linear-gradient" vai servir como o estilo que o fundo vai seguir*/
+
+    background-image: linear-gradient();
+
+    /*"font-family" é usado para mudar a fonte das letras da nossa página*/
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
